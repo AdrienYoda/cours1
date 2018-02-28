@@ -2,7 +2,7 @@ body{
     background-color:rgb(208, 133, 133);
     
 }
-h1,h2,p{
+h1,h2{
     color: chartreuse;
     text-align: center;
 }
@@ -12,4 +12,7 @@ img{
 }
 h3{
     color: deeppink;
+}
+p{
+    color: springgreen;
 }
